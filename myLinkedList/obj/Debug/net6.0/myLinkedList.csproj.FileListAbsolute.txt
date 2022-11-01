@@ -1,0 +1,15 @@
+C:\Users\Cianj\c#\myLinkedList\bin\Debug\net6.0\myLinkedList.exe
+C:\Users\Cianj\c#\myLinkedList\bin\Debug\net6.0\myLinkedList.deps.json
+C:\Users\Cianj\c#\myLinkedList\bin\Debug\net6.0\myLinkedList.runtimeconfig.json
+C:\Users\Cianj\c#\myLinkedList\bin\Debug\net6.0\myLinkedList.dll
+C:\Users\Cianj\c#\myLinkedList\bin\Debug\net6.0\myLinkedList.pdb
+C:\Users\Cianj\c#\myLinkedList\obj\Debug\net6.0\myLinkedList.csproj.AssemblyReference.cache
+C:\Users\Cianj\c#\myLinkedList\obj\Debug\net6.0\myLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cianj\c#\myLinkedList\obj\Debug\net6.0\myLinkedList.AssemblyInfoInputs.cache
+C:\Users\Cianj\c#\myLinkedList\obj\Debug\net6.0\myLinkedList.AssemblyInfo.cs
+C:\Users\Cianj\c#\myLinkedList\obj\Debug\net6.0\myLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Cianj\c#\myLinkedList\obj\Debug\net6.0\myLinkedList.dll
+C:\Users\Cianj\c#\myLinkedList\obj\Debug\net6.0\refint\myLinkedList.dll
+C:\Users\Cianj\c#\myLinkedList\obj\Debug\net6.0\myLinkedList.pdb
+C:\Users\Cianj\c#\myLinkedList\obj\Debug\net6.0\myLinkedList.genruntimeconfig.cache
+C:\Users\Cianj\c#\myLinkedList\obj\Debug\net6.0\ref\myLinkedList.dll
